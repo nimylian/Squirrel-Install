@@ -6,7 +6,7 @@ Steps:
 
 2. In terminal run the following command:
 ```bash
-./squirrel_setup
+./Squirrel-Install/squirrel_setup
 ```
 
 The Script is set to clean up after itself when it's done, so no need to worry about leaving a trail. Happy Squirreling!
